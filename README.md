@@ -7,8 +7,9 @@ Neste projeto, que foi desenvolvido durante o curso HTML e CSS para Iniciantes, 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junqueira/)
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rodrigojunqueiradev.github.io/)
 
 
 ## Habilidades
